@@ -1,9 +1,8 @@
 {
-  "name": "_githubactionsnode",
+  "name": "_github-actions-node",
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "build": "echo \"no build specified\"",
     "test": "echo \"no test specified\""
   },
   "author": "",
